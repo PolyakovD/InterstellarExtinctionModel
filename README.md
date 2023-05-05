@@ -4,12 +4,11 @@ We present a new version of our analytical model of the spatial interstellar ext
 
 ### Usage
 
-Interstellar extinction estimation with our model is available in 2 websites:
+Interstellar extinction estimation with our model is available in website:
 * [GMS2022](http://i--o.ru/)
-* ...
 
 #### Estimation with GMS2022
-Extinction can be estimated both for a single point and for a set of points. The point is defined by the galactic coordinates l, b, r or Cartesian coordinate X, Y, Z. The set of points is defined by .csv table with points defined as above.
+Extinction can be estimated both for a single point and for a set of points. The point is defined by the galactic coordinates l, b, r (l and b in degrees, r in parsecs) or Cartesian coordinate X, Y, Z in parsecs. The set of points is defined by .csv table with points defined as above.
 
 ### Citation 
 
