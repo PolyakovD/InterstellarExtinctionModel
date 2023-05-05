@@ -12,7 +12,10 @@ Extinction can be estimated both for a single point and for a set of points. The
 
 ### Citation 
 
-If you use our model for work/research presented in a publication (whether directly, or as a dependency to another package), we ask that you please cite the paper: [A Three-Dimensional Analytical Model of the Interstellar Extinction within the Nearest Kiloparsec](https://ui.adsabs.harvard.edu/abs/2022AstL...48..578G/abstract).
+If you use our model for work/research presented in a publication (whether directly, or as a dependency to another package), we ask that you please cite the papers: [A Three-Dimensional Analytical Model of the Interstellar Extinction within the Nearest Kiloparsec](https://ui.adsabs.harvard.edu/abs/2022AstL...48..578G/abstract), [3D stellar reddening map from 2MASS photometry: An improved version](https://ui.adsabs.harvard.edu/abs/2017AstL...43..472G/abstract).
 
 ### Contacts
 One can contact us to ask questions about the model by email: georgegontcharov@yahoo.com
+
+### Acknowledgements
+We acknowledge financial support from the Russian Science Foundation (grant no. 20-72-10052).
